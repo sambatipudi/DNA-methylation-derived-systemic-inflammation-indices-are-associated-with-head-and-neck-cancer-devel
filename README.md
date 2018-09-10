@@ -1,0 +1,2 @@
+# DNA-methylation-derived-systemic-inflammation-indices-are-associated-with-head-and-neck-cancer-devel
+Head and neck squamous cell carcinoma (HNSCC) is often associated with chronic systemic inflammation (SI). In the present study, we assessed if DNA methylation-derived SI (mdSI) indices: Neutrophil-to-Lymphocyte ratio (mdNLR) and Lymphocyte-to-Monocyte ratio (mdLMR) are associated with the presence of HNSCC and overall survival (OS).
